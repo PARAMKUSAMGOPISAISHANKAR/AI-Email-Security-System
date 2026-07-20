@@ -1,0 +1,13 @@
+text,label
+"Urgent: Your account will be suspended unless you verify immediately",spam
+"Click here to claim your free prize now",spam
+"Bank of America security alert: update your password",spam
+"We noticed unusual activity on your account, sign in now",spam
+"Hi Sam, the meeting is at 3 pm tomorrow",ham
+"Thanks for the payment confirmation",ham
+"Please review the attached report before noon",ham
+"Your package is arriving today at 6 pm",ham
+"Congratulations, you are selected for a cash reward",spam
+"Reset your password to continue using the service",spam
+"Reminder: team lunch at 12:30 today",ham
+"Invoice attached for your review",ham
